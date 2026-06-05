@@ -1,0 +1,11 @@
+**pycache**/
+*.pyc
+.env
+venv/
+.venv/
+playwright_state.json
+storage_state.json
+cookies.json
+*.db
+*.sqlite
+*.log
