@@ -11,6 +11,16 @@ A Playwright-based web scraping project that collects supplier information from 
 * Retrieve publicly accessible phone numbers from supplier profile pages
 * Export data to CSV format
 * Basic error handling for failed requests
+  
+## Key Skills Demonstrated
+
+- Browser Automation with Playwright
+- Pagination Handling
+- Multi-page Data Extraction
+- Data Cleaning
+- CSV Export
+- Error Handling
+- B2B Lead Generation  
 
 ## Technologies Used
 
